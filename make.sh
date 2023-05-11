@@ -1,3 +1,5 @@
+# qua 2023 cpy
+
 #!/bin/bash
 
 while true; do
